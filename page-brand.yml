@@ -1,6 +1,6 @@
 color:
   palette:
-    yellow-black: "#343728"
+    yellow: "#c8e944"
   foreground: "#f24"
   background: "#2f6"
 logo:
@@ -20,4 +20,5 @@ typography:
   base: Tiny5
 defaults:
   bootstrap:
-    navbar-bg: $brand-yellow-black
+    defaults:
+      navbar-bg: $brand-yellow

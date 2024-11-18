@@ -4,6 +4,7 @@ format:
   html: default
   dashboard: default
   revealjs: default
+brand: page-brand.yml
 ---
 
 # color, typography, logo
