@@ -1,0 +1,6 @@
+project:
+  type: website
+website:
+  navbar:
+    style: "docked"
+    left: []

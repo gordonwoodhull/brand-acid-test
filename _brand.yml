@@ -1,0 +1,23 @@
+color:
+  palette:
+    yellow-black: "#343728"
+  foreground: "#f24"
+  background: "#2f6"
+logo:
+  images:
+    quarto:
+      path: quarto.png
+      alt: quarto logo
+    posit:
+      path: posit-logo-2024.svg
+      alt: posit logo
+  medium: quarto
+  large: posit
+typography:
+  fonts:
+    - family: Tiny5
+      source: google
+  base: Tiny5
+defaults:
+  bootstrap:
+    navbar-bg: $brand-yellow-black

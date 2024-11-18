@@ -1,0 +1,11 @@
+---
+title: brand acid test
+format:
+  html: default
+  dashboard: default
+  revealjs: default
+---
+
+# color, typography, logo
+
+{{< lipsum 4 >}}
